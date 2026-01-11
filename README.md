@@ -1,1 +1,1 @@
-#site:https://m6vvvv.github.io
+https://m6vvvv.github.io
